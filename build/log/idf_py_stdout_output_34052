@@ -1,0 +1,5 @@
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/andre/OneDrive/Desktop/myprojects/i2c-project/build/CMakeFiles/CMakeOutput.log".
+[0/1] Re-running CMake...
+FAILED: build.ninja 
+C:\Espressif\tools\tools\cmake\3.24.0\bin\cmake.exe --regenerate-during-build -SC:\Users\andre\OneDrive\Desktop\myprojects\i2c-project -BC:\Users\andre\OneDrive\Desktop\myprojects\i2c-project\build
